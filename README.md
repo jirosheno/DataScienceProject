@@ -49,7 +49,7 @@ Our project follows the assignment in five stages:
 - [ ] **5. Evaluate & explain** — R² scores, residual & correlation plots, and a look at Simpson's Paradox 🔍
 
 > [!NOTE]
-> **Current focus:** stages **2 & 3**. Modeling and evaluation begin once the target and feature set are locked in.
+> **Current focus:** stages **4 & 5**. Modeling and evaluation begin once the target and feature set are locked in.
 
 ---
 
