@@ -44,7 +44,7 @@ Our project follows the assignment in five stages:
 
 - [x] **1. Prepare the data** — clean it and confirm it's ready to analyze ✅
 - [x] **2. Explore the data** — descriptive stats, PairGrids, association metrics, PPS, PCA, UMAP & HDBSCAN clustering 🧪 ✅
-- [ ] **3. Choose what to predict** — pick a continuous target and a useful feature set 🎯
+- [x] **3. Choose what to predict** — pick a continuous target and a useful feature set 🎯
 - [ ] **4. Build models** — compare linear regression vs. random forest, with and without cluster info 🤖
 - [ ] **5. Evaluate & explain** — R² scores, residual & correlation plots, and a look at Simpson's Paradox 🔍
 
