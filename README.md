@@ -3,7 +3,6 @@
 # 💳 CreditScope
 ### *Exploring credit data, finding patterns, and making predictions.*
 </div>
-**CreditScope** is our data science midterm project — a hands-on journey through a credit dataset, from raw exploration to honest model evaluation.
 
 ![Project Stage](https://img.shields.io/badge/stage-EDA%20%2B%20Feature%20Selection-7C5CFF?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,10 +42,10 @@ The dataset covers **income**, **credit limit**, **credit rating**, **number of 
 Our project follows the assignment in five stages:
 
 - [x] **1. Prepare the data** — clean it and confirm it's ready to analyze ✅
-- [x] **2. Explore the data** — descriptive stats, PairGrids, association metrics, PPS, PCA, UMAP & HDBSCAN clustering 🧪 ✅
+- [x] **2. Explore the data** — descriptive stats, PairGrids, association metrics, PPS, PCA, UMAP & HDBSCAN clustering 🧪 
 - [x] **3. Choose what to predict** — pick a continuous target and a useful feature set 🎯
-- [ ] **4. Build models** — compare linear regression vs. random forest, with and without cluster info 🤖
-- [ ] **5. Evaluate & explain** — R² scores, residual & correlation plots, and a look at Simpson's Paradox 🔍
+- [ x] **4. Build models** — compare linear regression vs. random forest, with and without cluster info 🤖
+- [ x] **5. Evaluate & explain** — R² scores, residual & correlation plots, and a look at Simpson's Paradox 🔍
 
 > [!NOTE]
 > **Current focus:** stages **4 & 5**. Modeling and evaluation begin once the target and feature set are locked in.
